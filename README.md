@@ -6,7 +6,7 @@ This file contains some example with a quite holistic explanation for using the 
 
 hope them helps!!
 
-# Before using it, please make sure you can import the API properly. #
+# Before using it, please make sure you can import the API properly. 
  I put the example .py file inside the dir of the API indeed. 
  
 link of instaloader : https://github.com/instaloader/instaloader
